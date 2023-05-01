@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Aazad-Ghoslya
+- 👀 I’m interested in Data Science and Machine Learning
